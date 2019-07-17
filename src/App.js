@@ -1,10 +1,9 @@
 import React from 'react';
-import MyContainer from './Controllers/mycontainer';
-
+import Wrapper from './components/wrapper';
 function App() {
   return (
     <div className="App">
-      <MyContainer/>
+        <Wrapper/> 
     </div>
     );
   

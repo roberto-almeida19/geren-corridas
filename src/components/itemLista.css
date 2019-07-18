@@ -3,4 +3,11 @@
     padding: 20px;
     background: #cecece;
     border-radius: 10px;
+    display: flex;
+}
+img{
+    width: 15em;
+    height: 15em;
+    border-radius: 20px;
+    margin-right: 3em;
 }
